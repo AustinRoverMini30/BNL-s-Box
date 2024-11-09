@@ -1,0 +1,1 @@
+AdaptoRAM_check=False

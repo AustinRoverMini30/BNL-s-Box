@@ -1,0 +1,126 @@
+________  __     __  __      ___     ________      _____      __  __
+| |     \ | |\   | | | |    /___/    | |     \    / ___ \     \ \/ /.
+| |     | | | \  | | | |             | |     |   / /   \ \     \ \/.  
+| |_____/ | |\ \ | | | |             | |_____/  / /     \ \     \ \. 
+| |     \ | | \ \| | | |             | |     \  \ \     / /    / \ \.
+| |     | | |  \   | | |____         | |     |   \ \___/ /    / / \ \.
+|_|_____/ |_|   \__| |______|        |_|_____/    \_____/    /_/   \_\.
+
+27/09/2023 22:12:01
+Erreur detectee : string index out of range
+Ligne : 14302
+Type d'erreur : IndexError
+Localisation : BNL's Intercomm, phase de connexion
+
+27/09/2023 22:13:17
+Erreur detectee : string index out of range
+Ligne : 14295
+Type d'erreur : IndexError
+Localisation : BNL's Intercomm / Menu
+
+27/09/2023 22:31:05
+Erreur detectee : string index out of range
+Ligne : 269
+Type d'erreur : IndexError
+Localisation : Importation des modules
+
+27/09/2023 22:32:45
+Erreur detectee : string index out of range
+Ligne : 14302
+Type d'erreur : IndexError
+Localisation : BNL's Intercomm, phase de connexion
+
+27/09/2023 22:32:50
+Erreur detectee : string index out of range
+Ligne : 14295
+Type d'erreur : IndexError
+Localisation : BNL's Intercomm / Menu
+
+27/09/2023 22:55:09
+Erreur detectee : timed out
+Ligne : 14360
+Type d'erreur : TimeoutError
+Localisation : BNL's Intercomm, phase de connexion
+
+26/10/2023 08:39:00
+[Errno 2] No such file or directory: 'Youtube\\\\Le Verger Permaculturel  - Au-delà du bio (vidéo campagne Kickstarter).mp4'
+Url donnee : https://youtu.be/msmz3znymn0?si=jF55pfP2m3WGrpOm
+Attributs (MP3/MP4) (LD/HD) : format -> mp4 qualité -> video
+Ligne : 4800
+
+31/10/2023 18:59:05
+[Errno 2] No such file or directory: "Youtube\\\\'Who I Am' _ Portal Minecraft Animated Music Video [Song by @CG5].mp4"
+Url donnee : https://youtu.be/F-oU5eaYEd0?si=tsfG__rl4RAfnJdu
+Attributs (MP3/MP4) (LD/HD) : format -> mp4 qualité -> video
+Ligne : 4800
+
+25/11/2023 22:31:04
+Erreur detectee : name 'fichier' is not defined
+Ligne : 15300
+Type d'erreur : NameError
+Localisation : Outils / BNL's Drone Control
+
+14/12/2023 16:17:12
+Erreur detectee : No file 'Fonts/font4/font.ttf' found in working directory 'C:\Users\nicol\Videos\Level Bêta'.
+Ligne : 9975
+Type d'erreur : FileNotFoundError
+Localisation : Paramètres / Personnalisation / polices de caractère
+
+21/12/2023 11:28:17
+Compte-rendu de l'outil de verification integre, BNL's Box Security mode : 
+
+Fichiers endommages :
+
+Démineur.py
+Menu_test.pyw
+Menu.pyw
+
+24/02/2024 19:21:06
+ERROR: [download] Got error: 2228208 bytes read, 623543 more expected
+Url donnee : https://youtu.be/juJkNKodgdE?si=94NRjmQzD5ktC8Pb
+Attributs (MP3/MP4) (LD/HD) : format -> mp3 qualité -> 320
+Ligne : 4792
+
+05/04/2024 16:53:24
+Compte-rendu de l'outil de verification integre, BNL's Box Security mode : 
+
+Fichiers endommages :
+
+Démineur.py
+Menu_test.pyw
+Menu.pyw
+
+19/04/2024 16:27:24
+Erreur detectee : No file 'Fonts/font4/font_view.png' found in working directory 'C:\Users\nicol\Videos\Level Bêta'.
+Ligne : 9918
+Type d'erreur : FileNotFoundError
+Localisation : Paramètres / Personnalisation / polices de caractère
+
+22/05/2024 08:56:35
+Erreur detectee : No file 'Miniature/Truck.MP4.mta.png' found in working directory 'C:\Users\nicol\Videos\Level Bêta'.
+Ligne : 5881
+Type d'erreur : FileNotFoundError
+Localisation : Menu Titanium-Widgets
+
+13/09/2024 09:09:42
+Erreur detectee : leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (<string>, line 1)
+Ligne : 9758
+Type d'erreur : SyntaxError
+Localisation : Paramètres / Personnalisation / fonds d'écran
+
+13/09/2024 09:10:13
+Erreur detectee : leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (<string>, line 1)
+Ligne : 269
+Type d'erreur : SyntaxError
+Localisation : Importation des modules
+
+07/11/2024 16:49:26
+Compte-rendu de l'outil de verification integre, BNL's Box Security mode : 
+
+Fichiers endommages :
+
+Démineur.py
+test.py
+Menu_test.pyw
+Menu.pyw
+

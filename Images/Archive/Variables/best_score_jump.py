@@ -1,0 +1,1 @@
+best_score_jump = 0
